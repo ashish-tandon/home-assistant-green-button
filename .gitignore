@@ -1,6 +1,2 @@
-__pycache__
-pythonenv*
-.python-version
-.coverage
-venv
-.venv
+.DS_Store
+**/.DS_Store
